@@ -1,4 +1,4 @@
-# Jointure Spatiale Google Colab
+un# Jointure Spatiale Google Colab
 
 Ce repo contient un notebook Google Colab permettant de faire des **jointures spatiales** entre un fichier de points GPS et un GeoJSON de territoires.
 
@@ -18,7 +18,7 @@ Ce repo contient un notebook Google Colab permettant de faire des **jointures sp
 ## Exemples
 
 - `ressources/togo_points.csv` : points fictifs au Togo.
-- `ressources/togo_communes.geojson` : polygones réelles des préfectures du Togo pour test.
+- `ressources/togo_prefectures.geojson` : polygones réelles des préfectures du Togo pour test.
 
 ## Prérequis
 
