@@ -1,4 +1,4 @@
-un# Jointure Spatiale Google Colab
+# Jointure Spatiale Google Colab
 
 Ce repo contient un notebook Google Colab permettant de faire des **jointures spatiales** entre un fichier de points GPS et un GeoJSON de territoires.
 
