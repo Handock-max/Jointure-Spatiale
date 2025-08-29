@@ -4,7 +4,7 @@ Ce repo contient un notebook Google Colab permettant de faire des **jointures sp
 
 ## Utilisation
 
-1. Ouvrir le notebook `googlecolab_notebook.ipynb` dans Google Colab.
+1. Ouvrir le notebook `googlecolab_notebook.ipynb` dans Google Colab : https://colab.research.google.com/
 2. Installer les packages si nécessaire (le notebook inclut `!pip install geopandas folium openpyxl ipywidgets jedi`).
 3. Uploader :
    - Votre fichier de points (CSV ou Excel avec colonnes latitude et longitude).
@@ -35,3 +35,4 @@ Vous pouvez installer ces dépendances avec pip :
 
 ```bash
 pip install -r requirements.txt
+
